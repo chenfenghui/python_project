@@ -11,6 +11,33 @@
 - ![百度图片](https://github.com/chenfenghui/big_data_tools/blob/master/picture/git_flag.jpg)
 
 - 代码引用
-```  import tensorflow as tf  ``` 
+```  import tensorflow as tf  ```
 
+- 表格
+<table>
+    <tr>
+        <th rowspan="2">值班人员</th>
+        <th>星期一</th>
+        <th>星期二</th>
+        <th>星期三</th>
+    </tr>
+    <tr>
+        <td>李强</td>
+        <td>张明</td>
+        <td>王平</td>
+    </tr>
+</table>
 
+### markdown先学到这里了 下面言归正传写写tensorflow的东西 ，什么是tensorflow呢，我准备把packtpub出版的Getting Started with TensorFlow - Giancarlo Zaccone一书按照章节简答的翻译一下，那咱们就从第一张开始吧
+
+#### 1，TensorFlow – Basic Concepts
+- Machine learning and deep learning basics
+- TensorFlow – A general overview
+- Python basics
+- Installing TensorFlow
+- First working session
+- Data Flow Graph
+- TensorFlow programming model
+- How to use TensorBoard
+
+   
