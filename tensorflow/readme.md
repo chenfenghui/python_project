@@ -33,7 +33,7 @@
 ### markdown先学到这里了 下面言归正传写写tensorflow的东西 ，什么是tensorflow呢，我准备把packtpub出版的Getting Started with TensorFlow - Giancarlo Zaccone一书按照章节简答的翻译一下，那咱们就从第一张开始吧,我选择jupyter_notebook来书写
 
 #### 1，TensorFlow – Basic Concepts
-- Machine learning and deep learning basics(https://github.com/chenfenghui/python_project/blob/master/tensorflow/Getting%20Started%20with%20TensorFlow%20CHS/chapter1/Machine%20learning%20and%20deep%20learning%20basics.ipynb)
+- [Machine learning and deep learning basics](https://github.com/chenfenghui/python_project/blob/master/tensorflow/Getting%20Started%20with%20TensorFlow%20CHS/chapter1/Machine%20learning%20and%20deep%20learning%20basics.ipynb)
 - TensorFlow – A general overview
 - Python basics
 - Installing TensorFlow
