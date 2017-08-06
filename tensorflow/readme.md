@@ -28,7 +28,9 @@
     </tr>
 </table>
 
-### markdown先学到这里了 下面言归正传写写tensorflow的东西 ，什么是tensorflow呢，我准备把packtpub出版的Getting Started with TensorFlow - Giancarlo Zaccone一书按照章节简答的翻译一下，那咱们就从第一张开始吧
+
+
+### markdown先学到这里了 下面言归正传写写tensorflow的东西 ，什么是tensorflow呢，我准备把packtpub出版的Getting Started with TensorFlow - Giancarlo Zaccone一书按照章节简答的翻译一下，那咱们就从第一张开始吧,我选择jupyter_notebook来书写
 
 #### 1，TensorFlow – Basic Concepts
 - Machine learning and deep learning basics
