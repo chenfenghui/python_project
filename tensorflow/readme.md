@@ -1,4 +1,4 @@
-##### > 首先写点Markdown的语法，防止自己忘记，那么markdown有什么优点呢，第一呢，格式转换方便Markdown 的文本你可以轻松转换为 html、电子书等，第二呢，markdown 的标记语法有极好的可读性。       
+### 首先写点Markdown的语法，防止自己忘记，那么markdown有什么优点呢，第一呢，格式转换方便Markdown 的文本你可以轻松转换为 html、电子书等，第二呢，markdown 的标记语法有极好的可读性。       
 ### ***具体写法:***
 -  #### '#' 和「一级标题」之间建议保留一个字符的空格，这是最标准的 Markdown 写法。列表格式也很常用，在 Markdown 中，你只需要在文字前面加上 - 就可以了
 
@@ -9,5 +9,8 @@
 - [陈峰辉的github地址](https://github.com/chenfenghui)
 ###### 插入图片
 - ![百度图片](https://github.com/chenfenghui/big_data_tools/blob/master/picture/git_flag.jpg)
+
+- 代码引用
+```  import tensorflow as tf  ``` 
 
 
